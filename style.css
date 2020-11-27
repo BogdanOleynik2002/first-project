@@ -1,7 +1,12 @@
 .hello {
 font-style: initial;
+font-size: large;
 }
 .red {
 width: 10px;
 height: 10px;
+}
+.white {
+    width: 40px;
+    height:20px;
 }
